@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SwitchC {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter a number from 1 to 7 and you'll know \n whether its a weekdy or weekend");
+        System.out.println("Enter a number from 1 to 7 and you'll know \n whether its a weekday or weekend");
         int num = in.nextInt();
 
 //        switch (num) {
